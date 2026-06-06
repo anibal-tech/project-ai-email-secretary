@@ -216,3 +216,65 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+# --------------------------------------------------
+# Project AI Email Secretary - sensitive local files
+# --------------------------------------------------
+
+# Local environment files
+.env.local
+.env.development
+.env.production
+.env.test
+
+# Credentials and tokens
+credentials.json
+token.json
+client_secret.json
+client_secret*.json
+secrets.json
+secrets.toml
+*.pem
+*.key
+*.p12
+*.p8
+
+# Local configuration files
+config.json
+config.local.json
+local_config.json
+
+# Keep example configuration files
+!config.example.json
+
+# Private or raw email datasets
+real-data/
+private-data/
+raw-data/
+sensitive-data/
+local-data/
+
+# Local data folders
+data/raw/
+data/private/
+data/sensitive/
+
+# Email exports and raw mailbox files
+*.mbox
+gmail_export*.json
+gmail_export*.csv
+mail_export*.json
+mail_export*.csv
+real_emails*.csv
+emails_raw*.csv
+*_emails_real.csv
+
+# Local outputs that may contain sensitive information
+outputs/private/
+outputs/raw/
+generated/private/
+generated/raw/
+
+# Local database files
+*.sqlite
+*.sqlite3
+*.db
