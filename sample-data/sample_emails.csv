@@ -1,0 +1,6 @@
+email_id,sender,subject,body,expected_priority,expected_action
+1,client@example.com,Project deadline update,Could you confirm the delivery date for the pending report?,High,Prepare follow-up response
+2,team@example.com,Weekly sync notes,Here are the notes from our weekly meeting.,Medium,Summarize and archive
+3,newsletter@example.com,Productivity tips,Here are five tips to improve your workflow.,Low,No response required
+4,manager@example.com,Budget approval needed,Please review and approve the attached budget proposal by Friday.,High,Draft approval response
+5,support@example.com,Ticket status update,The reported issue has been resolved and the ticket is now closed.,Medium,Confirm receipt
