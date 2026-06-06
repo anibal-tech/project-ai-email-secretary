@@ -4,7 +4,7 @@ AI-assisted email prioritization and draft response workflow built in Python/Col
 
 ## Repository Contents
 
-- [Notebook solution](notebooks/ai_email_secretary_solution.ipynb.ipynb)
+- [Notebook solution](notebooks/ai_email_secretary_solution.ipynb)
 - [Architecture overview](docs/architecture-overview.md)
 - [Sample email dataset](sample-data/sample_emails.csv)
 - [Example configuration](config.example.json)
