@@ -1,0 +1,7 @@
+{
+  "openai_api_key": "your_api_key_here",
+  "email_provider": "example_provider",
+  "model": "example-model-name",
+  "send_emails_automatically": false,
+  "human_review_required": true
+}
