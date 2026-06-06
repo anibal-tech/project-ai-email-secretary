@@ -2,6 +2,13 @@
 
 AI-assisted email prioritization and draft response workflow built in Python/Colab.
 
+## Repository Contents
+
+- [Notebook solution](notebooks/ai_email_secretary_solution.ipynb)
+- [Architecture overview](docs/architecture-overview.md)
+- [Sample email dataset](sample-data/sample_emails.csv)
+- [Example configuration](config.example.json)
+
 ## Overview
 
 Project AI Email Secretary explores how artificial intelligence can support email management by classifying incoming messages, identifying priority items, summarizing context, and generating draft responses for human review.
@@ -104,34 +111,20 @@ real email datasets
 private customer data
 ```
 
-## Planned Repository Structure
-
-```text
-project-ai-email-secretary/
-├── README.md
-├── notebooks/
-│   └── ai_email_secretary_solution.ipynb
-├── sample-data/
-│   └── sample_emails.csv
-├── docs/
-│   └── architecture-overview.md
-├── config.example.json
-└── .gitignore
-```
 
 ## Current Status
 
 Work in progress.
 
-The project is currently being organized as a professional portfolio repository. Documentation, privacy review, sample data, and technical structure are being refined before public release.
+The initial repository structure has been created, including project documentation, sample data, architecture notes, configuration example, and notebook organization.
+
+The repository is currently private while the notebook, sample outputs, and privacy review are being prepared before public portfolio release.
 
 ## Roadmap
 
-- Add sanitized sample dataset
-- Improve README documentation
+- Review and sanitize notebook before public release
 - Add architecture diagram
 - Add sample outputs
-- Add configuration example file
 - Refactor notebook logic into reusable Python modules
 - Add evaluation examples
 - Add clearer prompt documentation
