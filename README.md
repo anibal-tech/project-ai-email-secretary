@@ -116,11 +116,9 @@ private customer data
 
 ## Current Status
 
-Work in progress.
+The repository has been prepared as part of a public professional portfolio. Sample data is fictional, and sensitive information has been excluded from the project.
 
-The initial repository structure has been created, including project documentation, sample data, architecture notes, configuration example, and notebook organization.
-
-The repository is currently private while the notebook, sample outputs, and privacy review are being prepared before public portfolio release.
+The notebook source and HTML report are included as project artifacts. If GitHub cannot render them directly, they can be downloaded and reviewed locally or in Google Colab.
 
 ## Roadmap
 
