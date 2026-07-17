@@ -11,6 +11,18 @@ AI-assisted email prioritization and draft response workflow built in Python/Col
 - [Sample email dataset](sample-data/sample_emails.csv)
 - [Example configuration](config.example.json)
 
+## Academic Context
+
+This repository presents a portfolio-ready version of a project developed during an Applied Generative AI certification program from Johns Hopkins University.
+
+The implementation has been reviewed and sanitized for public visibility. It does not include private course materials, proprietary content, credentials, API keys, real emails, or sensitive personal information.
+
+## Result
+
+The project received a final score of **20 / 20**.
+
+The result reflects successful completion of the project requirements, including AI-assisted email classification, prioritization, summarization, draft response generation, and human-in-the-loop review considerations.
+
 ## Overview
 
 Project AI Email Secretary explores how artificial intelligence can support email management by classifying incoming messages, identifying priority items, summarizing context, and generating draft responses for human review.
