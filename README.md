@@ -153,14 +153,13 @@ Sensitive information, real emails, credentials, API keys, access tokens, and pr
 
 ## Roadmap
 
-- Review and sanitize notebook before public release
 - Add architecture diagram
 - Add sample outputs
 - Refactor notebook logic into reusable Python modules
 - Add evaluation examples
 - Add clearer prompt documentation
 - Add limitations and improvement notes
-- Prepare repository for public portfolio visibility
+- Explore a lightweight demo interface
 
 ## Portfolio Purpose
 
