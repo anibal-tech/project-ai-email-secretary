@@ -140,11 +140,16 @@ private customer data
 ```
 
 
-## Current Status
+## Status
 
-The repository has been prepared as part of a public professional portfolio. Sample data is fictional, and sensitive information has been excluded from the project.
+Public portfolio version.
 
-The notebook source and HTML report are included as project artifacts. If GitHub cannot render them directly, they can be downloaded and reviewed locally or in Google Colab.
+This repository is part of my professional GitHub portfolio and presents an AI-assisted email workflow using fictional or sanitized sample data.
+
+The notebook source and HTML report are included as project artifacts. If GitHub cannot render them directly, they can be downloaded and reviewed locally or opened in Google Colab.
+
+Sensitive information, real emails, credentials, API keys, access tokens, and private data are excluded from this repository.
+
 
 ## Roadmap
 
