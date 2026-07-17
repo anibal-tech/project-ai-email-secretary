@@ -11,6 +11,20 @@ AI-assisted email prioritization and draft response workflow built in Python/Col
 - [Sample email dataset](sample-data/sample_emails.csv)
 - [Example configuration](config.example.json)
 
+## Best way to review this repository
+
+Start with the [Notebook summary](docs/notebook-summary.md) to understand the workflow, expected outputs, responsible AI considerations, and review approach.
+
+Then review:
+
+- [Architecture overview](docs/architecture-overview.md)
+- [Sample email dataset](sample-data/sample_emails.csv)
+- [Example configuration](config.example.json)
+
+The notebook source and HTML report are included as project artifacts. If GitHub cannot render them directly, they can be downloaded and reviewed locally or opened in Google Colab.
+
+This repository is best reviewed as an AI-assisted business workflow focused on email classification, prioritization, summarization, draft response generation, and human-in-the-loop review.
+
 ## Academic Context
 
 This repository presents a portfolio-ready version of a project developed during an Applied Generative AI certification program from Johns Hopkins University.
