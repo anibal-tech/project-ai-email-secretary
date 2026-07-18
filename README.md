@@ -1,5 +1,11 @@
 # Project AI Email Secretary
 
+![Python](https://img.shields.io/badge/Python-3.x-blue)
+![Jupyter Notebook](https://img.shields.io/badge/Jupyter-Notebook-orange)
+![Applied GenAI](https://img.shields.io/badge/Applied%20GenAI-Portfolio%20Project-purple)
+![Score](https://img.shields.io/badge/Score-20%2F20-success)
+![Status](https://img.shields.io/badge/Status-Public%20portfolio%20version-brightgreen)
+
 AI-assisted email prioritization and draft response workflow built in Python/Colab.
 
 ![Project AI Email Secretary workflow](assets/diagrams/project-ai-email-secretary-flow.png)
