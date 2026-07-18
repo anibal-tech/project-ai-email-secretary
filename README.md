@@ -161,7 +161,7 @@ Sensitive information, real emails, credentials, API keys, access tokens, and pr
 
 ## Roadmap
 
-- Add architecture diagram
+- Add detailed architecture diagram
 - Add sample outputs
 - Refactor notebook logic into reusable Python modules
 - Add evaluation examples
