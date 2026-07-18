@@ -2,6 +2,8 @@
 
 AI-assisted email prioritization and draft response workflow built in Python/Colab.
 
+![Project AI Email Secretary workflow](assets/diagrams/project-ai-email-secretary-flow.png)
+
 ## Repository Contents
 
 - [Notebook summary](docs/notebook-summary.md)
